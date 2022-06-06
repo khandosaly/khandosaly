@@ -1,4 +1,4 @@
-### 🧑‍💻 Hi, i am khandosaly, backend developer
+
 
 ![](sunset.gif)
 
